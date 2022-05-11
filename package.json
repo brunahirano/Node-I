@@ -1,0 +1,19 @@
+{
+  "name": "node-i-git",
+  "version": "1.0.0",
+  "description": "Luiza Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunahirano/Node-I.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunahirano/Node-I/issues"
+  },
+  "homepage": "https://github.com/brunahirano/Node-I#readme"
+}
